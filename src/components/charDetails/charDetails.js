@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
 import GotService from '../../services/gotService';
+import './charDetails.css'
 
 export default class CharDetails extends Component {
 	
