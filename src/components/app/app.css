@@ -16,5 +16,7 @@
     background: blue url('got.jpeg') center center no-repeat;
     background-size: cover;
     height: 1000px;	
-    color: #fff;
+    h1 {
+        color: #fff;
+    }
 }
